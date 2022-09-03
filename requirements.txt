@@ -3,6 +3,9 @@ jupyter
 matplotlib
 notebook
 numpy
+openpyxl
 pandas
+ray[tune,serve]
 scikit-learn
+tensorboard
 tqdm
