@@ -1,4 +1,7 @@
+runs_clf/*
 !runs_clf/train_20220904_081814
+runs_clf_tune/*
+
 
 # Editors
 .vscode/
